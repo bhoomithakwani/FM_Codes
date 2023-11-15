@@ -1,10 +1,10 @@
 # FM_Codes
 1. Print the following output.
-   *
-   **
-   ***
-   ****
-   *****
+*
+**
+***
+****
+*****
 2. Take a String,integer,char,double input from user and print it.
 3. Print the sequence shown in Q1 but the number of rows should be
 decided by the user.
